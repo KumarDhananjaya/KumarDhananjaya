@@ -21,7 +21,7 @@
 
 
 
-<img  align="right" alt="coding" src="https://github-readme-stats.vercel.app/api?username=kumardhananjaya">
+<img  align="right" alt="coding" width="450" src="https://github-readme-stats.vercel.app/api?username=kumardhananjaya">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardhananjaya&layout=compact">
 
 
