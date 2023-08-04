@@ -6,7 +6,7 @@
 
 - 🔭 I have expertise in the **Full Stack (Javascript)** and **Mobile App development**.
 - ✅ I have a **"Learning skills"** I like to learn new things and improve my knowledge.
-- 🥉 I recently won **HPE Swarm IT Hackathon 2023** which is the Largest Open innovation model Hackathon organised by HP Enterprise .
+- 🥉 I recently won ** HPE Swarm-IT Hackathon  2023** organised by HP Enterprise. HPE Swarm-IT Hackathon is a one of the competition hosted by Hewlett Packard Enterprise (HPE), renowned for its groundbreaking technology solutions.
 - 🐱‍👤 I'm looking for **remote jobs and internships**😇 Checkout my [RESUME](https://tinyurl.com/KumarsResume)
 
 </p>
