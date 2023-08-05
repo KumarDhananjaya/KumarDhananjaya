@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/mitesh-tank/" target="_blank"> Kumar Dhananjaya </a>
+<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/kumardhananjaya/" target="_blank"> Kumar Dhananjaya </a>
 </h2>
   <!-- <hr> -->
 <h3> I'm a Software Engineer !!
