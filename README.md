@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/kumardhananjaya/" target="_blank"> Kumar Dhananjaya </a>
 </h2>
   <!-- <hr> -->
-<h3> I'm a Software Engineer !!
+<h3> I'm a CS Graduate !!
 </h3>
 
 - 🔭 I have expertise in the **Full Stack (Javascript)** and **Mobile App development**.
