@@ -51,25 +51,7 @@
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="25">
 </p>
 </h3>
-<!-- ### 📕 Latest Blog Posts -->
-<h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats (Still Improving)</h3>
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KumarDhananjaya&show_icons=true&theme=cobalt&count_private=true&hide_border=true" alt="Mitesh's GitHub Stats" />
-    </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarDhananjaya&langs_count=10&layout=compact" alt="jigar-sable" /></td>
-  </tr>
-</table>
-
-<!-- [![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&hide_border=true&count_private=true&show_icons=true&theme=cobalt)] -->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmitesh&langs_count=10&layout=compact)](https://github.com/codewithmitesh/github-readme-stats) -->
-
-<!-- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmitesh&theme=dark" alt="Mitesh-Tank"/></p> -->
 
 
 ### 👇Checkout more below 👇
