@@ -18,7 +18,7 @@
 <a href="https://twitter.com/SKumarDhananjay" target="_blank"><img height="28" src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/kumar.dhananjay_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Development related stuff that I'm good with:
+<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Development related stuff that I've worked before:
 </h3>
 
 <p>
