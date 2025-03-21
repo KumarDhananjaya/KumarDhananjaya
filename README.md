@@ -34,7 +34,9 @@
   <a href="https://github.com/KumarDhananjaya/ConnectX">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumarDhananjaya&repo=ConnectX&theme=radical" />
   </a>
- 
+  <a href="https://github.com/KumarDhananjaya/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumarDhananjaya&repo=Portfolio&theme=radical" />
+  </a>
 </p>
 
 ---
