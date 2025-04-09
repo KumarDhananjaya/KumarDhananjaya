@@ -19,16 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,flutter,dart,java,cpp,python,docker,firebase,git,github,linux,aws" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarDhananjaya&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarDhananjaya&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🚀 Featured Projects  
 <p align="center">
   <a href="https://github.com/KumarDhananjaya/ConnectX">
