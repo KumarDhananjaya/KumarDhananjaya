@@ -11,7 +11,7 @@
 - 🏅 **HPE Swarm-IT Hackathon 2023 2nd Prize Winner** – organized by Hewlett Packard Enterprise! 🚀
 - 📖 Currently mastering **MERN Stack + DevOps** and solving **DSA in Python**.
 - 💡 Always open to **collaborations, discussions, and innovative ideas**.
-- 🌍 Looking for **remote opportunities**! Checkout my [RESUME](https://tinyurl.com/KumarDhananjaya).  
+- 🌍 Looking for **remote opportunities**! Checkout my [RESUME]([https://tinyurl.com/KumarDhananjaya](https://drive.google.com/file/d/1SO9U5QxzxGp9t7lj2xmzWs13ZyZ3mb3D/view?usp=sharing)).  
 ---
 
 ### 🔧 Tech Stack & Tools
