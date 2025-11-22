@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🏆 **Associate Software Engineer** specializing in **Full-Stack JavaScript and Mobile App Development**.  
+- 🏆 **Associate Software Engineer** specializing in **Full-Stack and Mobile App Development**.  
 - 🥈 **2nd Prize – HPE Swarm-IT Hackathon 2023**, hosted by Hewlett Packard Enterprise.  
 - 📚 Currently sharpening my skills in **MERN Stack, DevOps**, and practicing **DSA with Python**.  
 - 🤝 Always open to **collaborations, discussions, and innovative projects**.  
