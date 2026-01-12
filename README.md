@@ -54,19 +54,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumardhananjaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardhananjaya&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardhananjaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate
 
 I’m always happy to discuss **System Architecture, Startups, or Open Source**.
@@ -76,8 +63,5 @@ I’m always happy to discuss **System Architecture, Startups, or Open Source**.
 - 📄 **Resume:** [View Official Resume](https://drive.google.com/file/d/1SO9U5QxzxGp9t7lj2xmzWs13ZyZ3mb3D/view?usp=sharing)
 
 <p align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/moki/moki/master/img/grid-bottom.png" width="100%" />
-  <br />
   <b>“Code with purpose. Build with vision.”</b>
 </p>
