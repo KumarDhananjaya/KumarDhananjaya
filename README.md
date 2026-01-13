@@ -25,7 +25,7 @@
 
 ### ⚡ At a Glance
 
-- 🏆 **HPE Swarm-IT Hackathon 2023** - 2nd Prize Winner (Hewlett Packard Enterprise).
+- 🏆 **HPE Swarm-IT Hackathon 2023** - Winner (Hewlett Packard Enterprise).
 - 🚀 **Core Expertise:** MERN Stack, React Native, and Go-based Microservices.
 - 🛠️ **Current Focus:** Advanced System Design, Distributed Systems, and DevOps Orchestration.
 - 🌍 **Open to:** Impactful remote collaborations and global engineering roles.
