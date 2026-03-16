@@ -15,6 +15,9 @@
   <a href="https://twitter.com/SKumarDhananjay" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+   <a href="https://drive.google.com/file/d/13Ig5DJfxEouOIgQIRhJzXWEKFADVVJWB/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -60,7 +63,7 @@ I’m always happy to discuss **System Architecture, Startups, or Open Source**.
 
 - 📧 **Email:** [kumar62.shivu@gmail.com](mailto:kumar62.shivu@gmail.com)
 - 💼 **LinkedIn:** [Kumar Dhananjaya](https://www.linkedin.com/in/kumardhananjaya/)
-- 📄 **Resume:** [View Official Resume](https://drive.google.com/file/d/1SO9U5QxzxGp9t7lj2xmzWs13ZyZ3mb3D/view?usp=sharing)
+- 📄 **Resume:** [View Official Resume](https://drive.google.com/file/d/13Ig5DJfxEouOIgQIRhJzXWEKFADVVJWB/view?usp=sharing)
 
 <p align="center">
   <b>“Code with purpose. Build with vision.”</b>
