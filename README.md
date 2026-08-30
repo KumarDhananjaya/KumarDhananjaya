@@ -161,7 +161,7 @@ Automate everything
 Continuously improve</code></pre>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">🎯 Career Trajectory</h2>
+      <h2 align="center"> Career Trajectory</h2>
 <pre><code>Software Engineer
       │
 Distributed Systems Engineer
@@ -196,7 +196,6 @@ Distributed Systems Engineer
       <b>Master of Computer Science</b><br>
       <i>University of Sydney</i> 🇦🇺<br>
       Software Eng, Cybersecurity, AI, Distributed Systems.<br><br>
-      
     </td>
     <td width="50%" valign="top">
       <h2>🏆 Achievements</h2>
